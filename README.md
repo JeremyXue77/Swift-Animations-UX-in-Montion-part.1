@@ -20,7 +20,7 @@
 
 
 
-[Creating Usability with Motion: The UX in Motion Manifesto]:https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc
+[Creating Usability with Motion: The UX in Motion Manifesto](https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc)
 
 
 
@@ -30,10 +30,9 @@
 
 
 
-[Swift — 實作 Creating Usability with Motion: The UX in Motion Manifesto 的動畫效果 Part.1]:https://medium.com/@JJeremy.XUE/swift-%E5%AF%A6%E4%BD%9C-creating-usability-with-motion-the-ux-in-motion-manifesto-%E7%9A%84%E5%8B%95%E7%95%AB%E6%95%88%E6%9E%9C-part-1-7304f1a884de
-[Swift — 實作 Creating Usability with Motion: The UX in Motion Manifesto 的動畫效果 Part.2]:https://medium.com/@JJeremy.XUE/swift-%E5%AF%A6%E4%BD%9C-creating-usability-with-motion-the-ux-in-motion-manifesto-%E7%9A%84%E5%8B%95%E7%95%AB%E6%95%88%E6%9E%9C-part-2-40b76ba86153
+[Swift — 實作 Creating Usability with Motion: The UX in Motion Manifesto 的動畫效果 Part.1](https://medium.com/@JJeremy.XUE/swift-%E5%AF%A6%E4%BD%9C-creating-usability-with-motion-the-ux-in-motion-manifesto-%E7%9A%84%E5%8B%95%E7%95%AB%E6%95%88%E6%9E%9C-part-1-7304f1a884de)
 
-
+[Swift — 實作 Creating Usability with Motion: The UX in Motion Manifesto 的動畫效果 Part.2](https://medium.com/@JJeremy.XUE/swift-%E5%AF%A6%E4%BD%9C-creating-usability-with-motion-the-ux-in-motion-manifesto-%E7%9A%84%E5%8B%95%E7%95%AB%E6%95%88%E6%9E%9C-part-2-40b76ba86153)
 
 
 
